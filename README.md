@@ -41,3 +41,5 @@
   
   
 </div>
+
+![snake gif](https://github.com/jefelipe/jefelipe/blob/output/github-contribution-grid-snake-square.gif)
