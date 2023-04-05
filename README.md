@@ -9,16 +9,17 @@
 
 ### *Detalhes*
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefelipe&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jefelipe&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefelipe&layout=compact&theme=radical&langs_caunt=16"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefelipe&layout=compact&theme=radical&langs_caunt=16"/>
 </a>
 
 ### *Projetos*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jefelipe&repo=TikTokClone-JornadaDev&theme=radical)](https://github.com/jefelipe/TikTokClone-JornadaDev) 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jefelipe&repo=TikTokClone-JornadaDev&theme=radical)](https://github.com/jefelipe/TikTokClone-JornadaDev) 
 
 ##
 
