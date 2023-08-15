@@ -5,7 +5,7 @@
 
 ### *Sobre mim*
 - ❤️ Programação<br>
-- 📜 Estudando Análise e Desenvolvimento de Sistemas - FECAF 5º Semestre
+- 📜 Graduado em Análise e Desenvolvimento de Sistema - FECAF
 
 ### *Detalhes*
 
