@@ -18,8 +18,13 @@
 </a>
 
 ### *Projetos*
+<div style="display: inline_block">
 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jefelipe&repo=jefelipe.github.io&theme=radical)](https://github.com/jefelipe/jefelipe.github.io) 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jefelipe&repo=airtech&theme=radical)](https://github.com/jefelipe/airtech) 
+
+
+</div>
 
 ##
 
