@@ -19,7 +19,7 @@
 
 ### *Projetos*
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jefelipe&repo=TikTokClone-JornadaDev&theme=radical)](https://github.com/jefelipe/TikTokClone-JornadaDev) 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jefelipe&repo=airtech&theme=radical)](https://github.com/jefelipe/airtech) 
 
 ##
 
